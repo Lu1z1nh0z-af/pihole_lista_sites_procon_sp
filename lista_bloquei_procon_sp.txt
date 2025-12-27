@@ -1,4 +1,4 @@
-leggingbrasil.com
+#Lista de sites bloqueados pelo Procon SP para o pihole. Extraido de #https://sistemas.procon.sp.gov.br/evitesite/list/evitesites.phpleggingbrasil.com
 leggingbrasil.com.br
 compufree.com.br
 ferrutini.com.br
