@@ -1,6 +1,6 @@
 # List of sites to avoid by Procon SP to Pihole.
 
-Lista de sites bloqueados pelo Procon SP para o pihole. Extraido de https://sistemas.procon.sp.gov.br/evitesite/list/evitesites.php
+Lista de sites a evitar pelo Procon SP para o pihole. Extraido de https://sistemas.procon.sp.gov.br/evitesite/list/evitesites.php
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/5531e9f9-dd6c-4c26-9695-2bbde3f610ec" />
 
